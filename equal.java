@@ -8,6 +8,6 @@ public class equal {
         else{
             System.out.println("not equal");
         }
-        //System.out.println(a>b);
+       
     }
 }

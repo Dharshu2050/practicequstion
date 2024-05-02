@@ -6,7 +6,7 @@ public class greatest {
         int a=sc.nextInt();
         int b=sc.nextInt();
         int c=sc.nextInt();
-
+     //check the number is great
         if(a>b){
             System.out.println("the greatest number is:"+a);
         }

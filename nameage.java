@@ -4,6 +4,7 @@
 import java.util.*;
 public class nameage {
      public static void main(String[] args) {
+      //name age address
         Scanner sc=new Scanner(System.in);
         String name=sc.nextLine();
         int age=sc.nextInt();

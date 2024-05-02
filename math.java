@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class math {
     public static void main(String[] args) {
+        //sum diiferent divied
         Scanner sc=new Scanner(System.in);
         int a=sc.nextInt();
         int b=sc.nextInt();
