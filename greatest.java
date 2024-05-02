@@ -16,5 +16,7 @@ public class greatest {
         else{
             System.out.println("the greatest number is:"+c);
         }
+
+        
     }
 }
