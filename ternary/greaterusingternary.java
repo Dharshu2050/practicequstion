@@ -1,3 +1,4 @@
+package ternary;
 import java.util.Scanner;
 
 public class greaterusingternary {
